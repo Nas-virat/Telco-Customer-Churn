@@ -4,7 +4,9 @@ library(naniar)
 library(viridis)
 library(visdat)
 library(ggplot2)
-
+library(rpart)
+library(rpart.plot)
+library(caret)
 
 df <- read.csv("Telco-Customer-Churn.csv")
 
@@ -50,3 +52,5 @@ ggplot(df,aes(x=TotalCharges,fill = Churn))+
 
 # count the number of unique value in each columns
 #as.data.frame(table(df_feature$Segment))
+
+#model <- glm(Churn ~ )
