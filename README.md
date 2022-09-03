@@ -18,3 +18,7 @@ The data has been chosen from Kaggle called ‘Telco Customer Churn’ which is 
 1. Pandas, Numpy, Matplotlib, Seaborn, and Sklearn
 2. Jupyter Notebook
 3. Python
+
+## Presentation
+
+https://www.canva.com/design/DAFBrmASkhE/L_13R5DxchwXHB40ffLWlg/view?utm_content=DAFBrmASkhE&utm_campaign=designshare&utm_medium=link&utm_source=viewer
