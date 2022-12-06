@@ -1,6 +1,6 @@
 # Telco-Customer-Churn
 
-The data has been chosen from Kaggle called ‘Telco Customer Churn’ which is the IBM Samples Data Sets. Each row represents a customer, each column contains the customer’s attributes described in the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The ‘Churn’ column is the target to predict.
+The data has been chosen from Kaggle called ‘Telco Customer Churn’ which is the IBM Samples Data Sets. Each row represents customer and each column contains the customer’s attributes described in the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features). The ‘Churn’ column is the target to predict.
 
 - Customers who left within the last month – the column is called Churn
 - Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
